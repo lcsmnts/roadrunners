@@ -58,6 +58,3 @@ I may update our Privacy Policy from time to time. Thus, you are advised to revi
 
 If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at lcsmnt@protonmail.com.
 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
