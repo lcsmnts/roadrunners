@@ -1,6 +1,4 @@
-# roadrunners
-
-### Privacy Policy
+# Privacy Policy
 
 Ralph Montes built the Roadrunners app as a Free app. This SERVICE is provided by Ralph Montes at no cost and is intended for use as is. 
 
