@@ -65,8 +65,8 @@ If you have any questions or suggestions about my Privacy Policy, do not hesitat
 <p align="center">
   <b>Some Links:</b><br>
   <a href="contactus.md">contact us</a>|
-  <a href="#">Link 2</a> |
-  <a href="#">Link 3</a>
+  <a href="privacypolicy.md">privacy policy</a> |
+  <a href="index.md">home</a>
   <br><br>
   <img src="http://s.4cdn.org/image/title/105.gif">
 </p>
