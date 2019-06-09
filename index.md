@@ -63,4 +63,4 @@ If you have any questions or suggestions about my Privacy Policy, do not hesitat
 
 
 ---
-<a href="privacypolicy.md">Page 2</a>
+<a href="privacypolicy.md">privacy policy</a>      <a href="privacypolicy.md">about us</a>
